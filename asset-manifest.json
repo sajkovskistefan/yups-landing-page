@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/yups-landing-page/static/css/main.cc182f25.css",
-    "main.js": "/yups-landing-page/static/js/main.b64f6cb7.js",
+    "main.js": "/yups-landing-page/static/js/main.8f8d0b42.js",
     "static/js/787.6606bfd5.chunk.js": "/yups-landing-page/static/js/787.6606bfd5.chunk.js",
     "static/media/YupsLogoPurple.png": "/yups-landing-page/static/media/YupsLogoPurple.17da73e8bd17c223ea95.png",
-    "static/media/YupsBackgroundPhoto.jpg": "/yups-landing-page/static/media/YupsBackgroundPhoto.22ad9206b1fdde2894c3.jpg",
     "static/media/YupsLogoOrange.png": "/yups-landing-page/static/media/YupsLogoOrange.a371b6660715d3acb803.png",
     "index.html": "/yups-landing-page/index.html",
     "main.cc182f25.css.map": "/yups-landing-page/static/css/main.cc182f25.css.map",
-    "main.b64f6cb7.js.map": "/yups-landing-page/static/js/main.b64f6cb7.js.map",
+    "main.8f8d0b42.js.map": "/yups-landing-page/static/js/main.8f8d0b42.js.map",
     "787.6606bfd5.chunk.js.map": "/yups-landing-page/static/js/787.6606bfd5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc182f25.css",
-    "static/js/main.b64f6cb7.js"
+    "static/js/main.8f8d0b42.js"
   ]
 }
