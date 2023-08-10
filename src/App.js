@@ -1,4 +1,3 @@
-import YupsBackgroundPhoto from './Components/UI/Assests/YupsBackgroundPhoto.jpg';
 import YupsLogoPurple from './Components/UI/Assests/YupsLogoPurple.png';
 import { Navbar } from './Components/Pages/Navbar';
 import { Cards } from './Components/Pages/Cards';
@@ -6,7 +5,6 @@ import './App.css';
 import { WhatWeDo } from './Components/Pages/WhatWeDo';
 import { Testemonials } from './Components/Pages/Testemonials';
 import { Form } from './Components/Pages/Form';
-import { Footer } from './Components/Pages/Footer';
 
 function App() {
   return (
