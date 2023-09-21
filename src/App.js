@@ -9,8 +9,9 @@ import { Form } from './Components/Pages/Form';
 function App() {
   return (
     <div className='App'>
-      <Navbar />
-      {/* <div style={{
+      <div className='nav-pirple-div-banner-container'>
+        <Navbar />
+        {/* <div style={{
         backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),  url(${YupsBackgroundPhoto})`,
         backgroundRepeat: 'no-repeat',
         backgroundPositionX: "center",
@@ -18,17 +19,18 @@ function App() {
         backgroundSize: "100% 100%"
       }} className='background_yups_div'>
       </div> */}
-      <div className='main-purple-div'>
-        <img className='main-purple-div-logo' src={YupsLogoPurple} alt='logo in purple' />
-        <div className='main-purple-div-text'>
-          {/* We are your new in-house marketing and IT team */}
-          YOUR PARTNER FOR PROVIDING THE RIGHT DATA-DRIVEN MARKETING STRATEGY BUILD ON HIGH-TECH SOLUTIONS TO DRIVE YOUR BUSINESS FORWARD.
+        <div className='main-purple-div'>
+          <img className='main-purple-div-logo' src={YupsLogoPurple} alt='logo in purple' />
+          <div className='main-purple-div-text'>
+            {/* We are your new in-house marketing and IT team */}
+            YOUR PARTNER FOR PROVIDING THE RIGHT DATA-DRIVEN MARKETING STRATEGY BUILD ON HIGH-TECH SOLUTIONS TO DRIVE YOUR BUSINESS FORWARD.
+          </div>
         </div>
-      </div>
-      <div className='first-banner'>
-        <span className='first-banner-text'>Why us?</span>
-        <h4 className='first-banner-header'>Experts, enthsiasts</h4>
-        <div className='first-banner-div-sentence'>We are IT and marketing experts, enthusiasts from all around the world. Our guiding goal is delivery of the best services possible</div>
+        <div className='first-banner'>
+          <span className='first-banner-text'>Why us?</span>
+          <h4 className='first-banner-header'>Experts, enthsiasts</h4>
+          <div className='first-banner-div-sentence'>We are IT and marketing experts, enthusiasts from all around the world. Our guiding goal is delivery of the best services possible</div>
+        </div>
       </div>
       <div className='moto-div'>
         <div className='moto-div-heading'>
